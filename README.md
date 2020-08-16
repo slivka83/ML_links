@@ -1,12 +1,37 @@
 # EDA
-## Grphics
+## Tools
+- https://github.com/pandas-profiling/pandas-profiling
+- https://github.com/DistrictDataLabs/yellowbrick
+- https://github.com/man-group/dtale
+- https://github.com/SauceCat/PDPbox
+## Theory
 - [en] https://www.data-to-viz.com/
 - [en] https://python-graph-gallery.com/
 - [en/ru] https://datavizcatalogue.com/
+
+# Preprocessing and Feature engenering
 ## Tools
-- [en] https://github.com/pandas-profiling/pandas-profiling
-- [en] https://github.com/DistrictDataLabs/yellowbrick
-- [en] https://github.com/man-group/dtale
+- https://feature-engine.readthedocs.io/en/latest/index.html
+- https://docs.featuretools.com/en/stable/
+- https://pyjanitor.readthedocs.io/index.html
+- https://imbalanced-learn.readthedocs.io/en/stable/
+## Theory
+- [en] Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)
+- [en] [Repo for book Feature Engineering for Machine Learning](https://github.com/alicezheng/feature-engineering-book)
+- [en] Book [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) (examples in R)
+
+# Feature selecton
+
+# Model Tuning
+- [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize)
+- [Hyperopt](https://github.com/hyperopt/hyperopt)
+- [Optuna](https://github.com/optuna/optuna)
+- [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization)
+- [Hyperparameter Hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
+
+# Model explanation
+- Shap
+- Eli5
 
 # Pandas
 - [en] https://github.com/ajcr/100-pandas-puzzles
