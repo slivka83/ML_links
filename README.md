@@ -3,6 +3,7 @@
 - https://github.com/pandas-profiling/pandas-profiling
 - https://github.com/DistrictDataLabs/yellowbrick
 - https://github.com/man-group/dtale
+- https://github.com/quantopian/qgrid
 - https://github.com/SauceCat/PDPbox
 ### Theory
 - [en] https://www.data-to-viz.com/
@@ -15,6 +16,7 @@
 - https://docs.featuretools.com/en/stable/
 - https://pyjanitor.readthedocs.io/index.html
 - https://imbalanced-learn.readthedocs.io/en/stable/
+- h3
 ### Theory
 - [en] Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)
 - [en] [Repo for book Feature Engineering for Machine Learning](https://github.com/alicezheng/feature-engineering-book)
@@ -42,8 +44,12 @@
 - [en] https://github.com/ajcr/100-pandas-puzzles
 - [en] https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 - [en] https://github.com/guipsamora/pandas_exercises
+- [en] https://github.com/jvns/pandas-cookbook
 - [en] https://www.kaggle.com/python10pm/pandas-100-tricks
 - [en] https://www.machinelearningplus.com/python/101-pandas-exercises-python/
+- [en] https://github.com/TomAugspurger/effective-pandas
+- [en] https://elitedatascience.com/python-cheat-sheet
+- [en] https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 
 # NumPy
 - [en] https://github.com/rougier/numpy-100
@@ -54,4 +60,7 @@
 - [en] http://scipy-lectures.org/
 
 # Statistics
+- https://github.com/raphaelvallat/pingouin
 - [en] https://seeing-theory.brown.edu/
+
+# Cheatsheets
