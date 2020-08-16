@@ -62,5 +62,8 @@
 # Statistics
 - https://github.com/raphaelvallat/pingouin
 - [en] https://seeing-theory.brown.edu/
+- https://gallery.shinyapps.io/CLT_mean/
+- https://gallery.shinyapps.io/dist_calc/
+- https://setosa.io/#/
 
 # Cheatsheets
