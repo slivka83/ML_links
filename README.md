@@ -2,8 +2,6 @@
 ### Tools
 - https://github.com/pandas-profiling/pandas-profiling
 - https://github.com/DistrictDataLabs/yellowbrick
-- https://github.com/man-group/dtale
-- https://github.com/quantopian/qgrid
 - https://github.com/SauceCat/PDPbox
 ### Theory
 - [en] https://www.data-to-viz.com/
@@ -13,7 +11,7 @@
 # Preprocessing and Feature engenering
 ### Tools
 - https://feature-engine.readthedocs.io/en/latest/index.html
-- https://docs.featuretools.com/en/stable/
+- https://github.com/FeatureLabs/featuretools
 - https://pyjanitor.readthedocs.io/index.html
 - https://imbalanced-learn.readthedocs.io/en/stable/
 - h3
@@ -21,9 +19,6 @@
 - [en] Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)
 - [en] [Repo for book Feature Engineering for Machine Learning](https://github.com/alicezheng/feature-engineering-book)
 - [en] Book [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) (examples in R)
-
-# Fit
-- https://sites.google.com/view/lauraepp/parameters
 
 # Feature selecton
 
@@ -41,6 +36,11 @@
 # AutoML
 
 # Pandas
+### Tools
+- https://github.com/man-group/dtale
+- https://github.com/quantopian/qgrid
+- https://github.com/dovpanda-dev/dovpanda
+### Theory
 - [en] https://github.com/ajcr/100-pandas-puzzles
 - [en] https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 - [en] https://github.com/guipsamora/pandas_exercises
@@ -65,5 +65,13 @@
 - https://gallery.shinyapps.io/CLT_mean/
 - https://gallery.shinyapps.io/dist_calc/
 - https://setosa.io/#/
+- https://distill.pub
+  - https://distill.pub/2019/visual-exploration-gaussian-processes/
+  - https://distill.pub/2020/bayesian-optimization/
+
+# Прочее
+- https://distill.pub/2016/misread-tsne/
+- https://sites.google.com/view/lauraepp/parameters
+- https://python-data-science.readthedocs.io/
 
 # Cheatsheets
