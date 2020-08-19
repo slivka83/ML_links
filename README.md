@@ -72,7 +72,6 @@
 
 # SciPy
 - http://scipy-lectures.org/
-- http://scipy-lectures.org/
 
 # Statistics
 - https://seeing-theory.brown.edu/
