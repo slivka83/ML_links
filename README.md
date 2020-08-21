@@ -1,16 +1,15 @@
 # EDA
 ### Tools
 - https://github.com/pandas-profiling/pandas-profiling
-- https://github.com/DistrictDataLabs/yellowbrick
 - https://github.com/SauceCat/PDPbox
-- https://github.com/raphaelvallat/pingouin
+- https://github.com/fbdesignpro/sweetviz
 ### Theory
 - https://www.data-to-viz.com/
 - https://python-graph-gallery.com/
 - https://datavizcatalogue.com/
 - https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
 - https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary
-- https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/bonus%20content/effective%20data%20visualization/Bonus%20-%20Effective%20Multi-dimensional%20Data%20Visualization.ipynb
+- https://www.itl.nist.gov/div898/handbook/eda/eda.htm
 
 # Preprocessing and Feature engenering
 ### Tools
@@ -18,7 +17,13 @@
 - https://github.com/FeatureLabs/featuretools
 - https://pyjanitor.readthedocs.io/index.html
 - https://imbalanced-learn.readthedocs.io/en/stable/
+
+GOE
 - h3
+
+Time Series
+- https://github.com/bukosabino/ta
+
 ### Theory
 - Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)
 - [Repo for book Feature Engineering for Machine Learning](https://github.com/alicezheng/feature-engineering-book)
