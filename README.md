@@ -1,8 +1,8 @@
 # EDA
 ### Tools
 - https://github.com/pandas-profiling/pandas-profiling
-- https://github.com/SauceCat/PDPbox
 - https://github.com/fbdesignpro/sweetviz
+- https://github.com/SauceCat/PDPbox
 ### Theory
 - https://www.data-to-viz.com/
 - https://python-graph-gallery.com/
@@ -13,16 +13,19 @@
 
 # Preprocessing and Feature engenering
 ### Tools
-- https://feature-engine.readthedocs.io/en/latest/index.html
+Common
+- https://github.com/solegalli/feature_engine
 - https://github.com/FeatureLabs/featuretools
-- https://pyjanitor.readthedocs.io/index.html
-- https://imbalanced-learn.readthedocs.io/en/stable/
+- https://github.com/ericmjl/pyjanitor
+- https://github.com/scikit-learn-contrib/imbalanced-learn
 
-GOE
-- h3
+Geo
+- https://github.com/geopandas/geopandas
+- https://github.com/uber/h3
 
 Time Series
 - https://github.com/bukosabino/ta
+- https://github.com/blue-yonder/tsfresh
 
 ### Theory
 - Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)
