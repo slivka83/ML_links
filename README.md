@@ -32,8 +32,7 @@ Time Series
 - https://github.com/bukosabino/ta
 
 ### Theory
-- Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)
-- [Repo for book Feature Engineering for Machine Learning](https://github.com/alicezheng/feature-engineering-book)
+- Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf) ([Repo](https://github.com/alicezheng/feature-engineering-book))
 - Book [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) (examples in R)
 
 # Feature selecton
@@ -96,6 +95,10 @@ Time Series
   - https://distill.pub/2020/bayesian-optimization/
 - https://the-learning-machine.com/list-articles/machine-learning
 
+# Нейронные сети
+- http://playground.tensorflow.org
+- https://www.cs.ryerson.ca/~aharley/vis/conv/
+
 # Misc
 - https://distill.pub/2016/misread-tsne/
 - https://sites.google.com/view/lauraepp/parameters
@@ -105,7 +108,6 @@ Time Series
 - http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 - http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 - https://github.com/donnemartin/data-science-ipython-notebooks
-- http://playground.tensorflow.org
 - https://github.com/jvawdrey/cookiecutter-data-science
 
 # Cheatsheets
