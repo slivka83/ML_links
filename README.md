@@ -1,35 +1,35 @@
 # EDA
 ### Tools
-- https://github.com/pandas-profiling/pandas-profiling
-- https://github.com/fbdesignpro/sweetviz
-- https://github.com/SauceCat/PDPbox
-- https://github.com/danielfrg/tsne
+- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
+- [Sweetviz ](https://github.com/fbdesignpro/sweetviz)
+- [PDPbox](https://github.com/SauceCat/PDPbox)
+- [T-SNE](https://github.com/danielfrg/tsne)
 ### Theory
-- https://www.data-to-viz.com/
-- https://python-graph-gallery.com/
-- https://datavizcatalogue.com/
-- https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
-- https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary
-- https://www.itl.nist.gov/div898/handbook/eda/eda.htm
+- [From Data to Viz](https://www.data-to-viz.com/)
+- [Python Graph Gallery](https://python-graph-gallery.com/)
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+- [Top 50 matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+- [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
+- [Engineering Statistics Handbook - EDA chapter](https://www.itl.nist.gov/div898/handbook/eda/eda.htm)
 
 # Preprocessing and Feature engenering
 ### Tools
 Common
-- https://github.com/solegalli/feature_engine
-- https://github.com/FeatureLabs/featuretools
-- https://github.com/scikit-learn-contrib/category_encoders
-- https://github.com/ericmjl/pyjanitor
-- https://github.com/scikit-learn-contrib/imbalanced-learn
+- [Feature Engine](https://github.com/solegalli/feature_engine)
+- [Featuretools](https://github.com/FeatureLabs/featuretools)
+- [Categorical Encoding Methods](https://github.com/scikit-learn-contrib/category_encoders)
+- [pyJanitor](https://github.com/ericmjl/pyjanitor)
+- [Imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 
 Geo
-- https://github.com/geopandas/geopandas
-- https://github.com/uber/h3
-- https://github.com/python-visualization/folium
+- [GeoPandas](https://github.com/geopandas/geopandas)
+- [H3](https://github.com/uber/h3)
+- [folium](https://github.com/python-visualization/folium)
 
 Time Series
-- https://github.com/blue-yonder/tsfresh
-- https://github.com/TDAmeritrade/stumpy
-- https://github.com/bukosabino/ta
+- [tsfresh](https://github.com/blue-yonder/tsfresh)
+- [STUMPY](https://github.com/TDAmeritrade/stumpy)
+- [Technical Analysis Library](https://github.com/bukosabino/ta)
 
 ### Theory
 - Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf) ([Repo](https://github.com/alicezheng/feature-engineering-book))
@@ -58,14 +58,14 @@ Time Series
  - Uber Ludwig
 
 # Jupyter
-- https://blog.jupyter.org/and-voil%C3%A0-f6a2c08a4a93
-- https://www.streamlit.io/
+- [Voila](https://github.com/voila-dashboards/voila)
+- [Streamlit](https://www.streamlit.io/)
 
 # Pandas
 ### Tools
-- https://github.com/man-group/dtale
-- https://github.com/quantopian/qgrid
-- https://github.com/dovpanda-dev/dovpanda
+- [D-Tale](https://github.com/man-group/dtale)
+- [Qgrid](https://github.com/quantopian/qgrid)
+- [Directions OVer PANDAs](https://github.com/dovpanda-dev/dovpanda)
 ### Theory
 - https://github.com/ajcr/100-pandas-puzzles
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
