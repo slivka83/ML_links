@@ -36,6 +36,7 @@ Time Series
 - Book [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) (examples in R)
 
 # Feature selecton
+- [Mlxtend](https://github.com/rasbt/mlxtend)
 
 # Model Tuning
 - [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize)
@@ -43,6 +44,7 @@ Time Series
 - [Optuna](https://github.com/optuna/optuna)
 - [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization)
 - [Hyperparameter Hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
+- [Boruta](https://github.com/scikit-learn-contrib/boruta_py)
 
 # Model explanation
 - [SHAP](https://github.com/slundberg/shap)
