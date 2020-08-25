@@ -30,6 +30,7 @@ Time Series
 - [tsfresh](https://github.com/blue-yonder/tsfresh)
 - [STUMPY](https://github.com/TDAmeritrade/stumpy)
 - [Technical Analysis Library](https://github.com/bukosabino/ta)
+- [sktime](https://github.com/alan-turing-institute/sktime)
 
 ### Theory
 - Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf) ([Repo](https://github.com/alicezheng/feature-engineering-book))
