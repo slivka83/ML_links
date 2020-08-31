@@ -18,6 +18,8 @@
 - [Engineering Statistics Handbook - EDA chapter](https://www.itl.nist.gov/div898/handbook/eda/eda.htm)
 - [ru] https://habr.com/ru/post/468295/
 - [Data Viz Project](https://datavizproject.com/)
+- https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/
+- [ru] https://nagornyy.me/courses/data-science/intro-to-seaborn/
 
 # Preprocessing
 - [https://github.com/yzhao062/pyod/tree/development]
@@ -127,6 +129,8 @@ Time Series
 - https://elitedatascience.com/python-cheat-sheet
 - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 - https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb#18.-Aggregate-by-multiple-functions
+- https://www.notion.so/Pandas-Tutorials-Articles-Videos-a19c806a31bb4b288a1909f0803fad5f
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
 
 # NumPy
 - https://github.com/rougier/numpy-100
@@ -177,6 +181,9 @@ Time Series
 - https://github.com/donnemartin/data-science-ipython-notebooks
 - [ru] https://ranalytics.github.io/data-mining/index.html
 - http://rali.iro.umontreal.ca/rali/sites/default/files/publis/SokolovaLapalme-JIPM09.pdf
+- https://explained.ai/
+- https://gto76.github.io/python-cheatsheet/
+- https://chrisalbon.com/
 
 # Cheatsheets
 - https://github.com/FavioVazquez/ds-cheatsheets
