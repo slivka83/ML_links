@@ -57,7 +57,6 @@ Time Series
 - Book [Forecasting: Principles and Practice](https://otexts.com/fpp3/) (examples in R)
 
 # Feature selecton
-- [Mlxtend](https://github.com/rasbt/mlxtend)
 - [stability-selection](https://github.com/scikit-learn-contrib/stability-selection)
 - [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)
 - [Boruta](https://github.com/scikit-learn-contrib/boruta_py)
@@ -184,6 +183,11 @@ Time Series
 - https://explained.ai/
 - https://gto76.github.io/python-cheatsheet/
 - https://chrisalbon.com/
+
+# Complex Frameworks
+- [Mlxtend](https://github.com/rasbt/mlxtend)
+- [statsmodels](https://www.statsmodels.org/stable/index.html)
+- [Yellowbrick](https://www.scikit-yb.org/en/latest/)
 
 # Cheatsheets
 - https://github.com/FavioVazquez/ds-cheatsheets
