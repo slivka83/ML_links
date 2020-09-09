@@ -20,6 +20,7 @@
 - [Data Viz Project](https://datavizproject.com/)
 - https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/
 - [ru] https://nagornyy.me/courses/data-science/intro-to-seaborn/
+- https://infovis.fh-potsdam.de/tutorials/
 
 # Preprocessing
 - [https://github.com/yzhao062/pyod/tree/development]
@@ -183,6 +184,7 @@ Time Series
 - https://explained.ai/
 - https://gto76.github.io/python-cheatsheet/
 - https://chrisalbon.com/
+- https://github.com/EthicalML/awesome-production-machine-learning
 
 # Complex Frameworks
 - [Mlxtend](https://github.com/rasbt/mlxtend)
