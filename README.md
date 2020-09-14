@@ -56,6 +56,7 @@ Time Series
 - Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf) ([Repo](https://github.com/alicezheng/feature-engineering-book))
 - Book [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) (examples in R)
 - Book [Forecasting: Principles and Practice](https://otexts.com/fpp3/) (examples in R)
+- Book [Applied Time Series Analysis for Fisheries and Environmental Sciences](https://nwfsc-timeseries.github.io/atsa-labs/) (examples in R)
 
 # Feature selecton
 - [stability-selection](https://github.com/scikit-learn-contrib/stability-selection)
