@@ -45,6 +45,7 @@ Geo
 - [folium](https://github.com/python-visualization/folium)
 - [Geocoder](https://github.com/DenisCarriere/geocoder)
 - [PySAL](https://github.com/pysal/pysal)
+- [geopy](https://github.com/geopy/geopy)
 
 Time Series
 - [tsfresh](https://github.com/blue-yonder/tsfresh)
@@ -57,6 +58,7 @@ Time Series
 - Book [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) (examples in R)
 - Book [Forecasting: Principles and Practice](https://otexts.com/fpp3/) (examples in R)
 - Book [Applied Time Series Analysis for Fisheries and Environmental Sciences](https://nwfsc-timeseries.github.io/atsa-labs/) (examples in R)
+- https://github.com/rob-med/awesome-TS-anomaly-detection
 
 # Feature selecton
 - [stability-selection](https://github.com/scikit-learn-contrib/stability-selection)
