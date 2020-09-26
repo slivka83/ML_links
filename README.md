@@ -101,7 +101,7 @@ Time Series
 - [Voila](https://github.com/voila-dashboards/voila)
 - [Streamlit](https://www.streamlit.io/)
 - [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
-- [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
+- [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html)
 - [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 - [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
 - [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
