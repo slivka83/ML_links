@@ -35,7 +35,6 @@ Common
 - [Categorical Encoding Methods](https://github.com/scikit-learn-contrib/category_encoders)
 - [dirty_cat](https://github.com/dirty-cat/dirty_cat)
 - [pyJanitor](https://github.com/ericmjl/pyjanitor)
-
 - [Impyute](https://github.com/eltonlaw/impyute)
 - [fancyimpute](https://github.com/iskandr/fancyimpute)
 
