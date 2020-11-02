@@ -133,6 +133,8 @@ Time Series
 - https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb#18.-Aggregate-by-multiple-functions
 - https://www.notion.so/Pandas-Tutorials-Articles-Videos-a19c806a31bb4b288a1909f0803fad5f
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
+- https://github.com/tdpetrou/Learn-Pandas
+- https://github.com/tdpetrou/Minimally-Sufficient-Pandas
 
 # NumPy
 - https://github.com/rougier/numpy-100
