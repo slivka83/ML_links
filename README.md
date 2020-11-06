@@ -165,6 +165,7 @@ Time Series
 - https://github.com/PyTorchLightning/pytorch-lightning
 - https://github.com/jettify/pytorch-optimizer
 - https://github.com/lutzroeder/netron
+- https://github.com/wandb/client
 ### Theory
 - http://playground.tensorflow.org
 - https://www.cs.ryerson.ca/~aharley/vis/conv/
