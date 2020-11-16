@@ -26,7 +26,7 @@
 - [https://github.com/yzhao062/pyod/tree/development]
 - [rrcf](https://klabum.github.io/rrcf/)
 - [Imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
-
+- [Alibi Detect](https://docs.seldon.io/projects/alibi-detect/en/latest/index.html)
 # Feature engenering
 ### Tools
 Common
