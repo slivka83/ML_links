@@ -21,6 +21,7 @@
 - https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/
 - [ru] https://nagornyy.me/courses/data-science/intro-to-seaborn/
 - https://infovis.fh-potsdam.de/tutorials/
+- https://clauswilke.com/dataviz/ecdf-qq.html
 
 # Preprocessing
 - [https://github.com/yzhao062/pyod/tree/development]
