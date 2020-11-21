@@ -8,6 +8,9 @@
 - [missingno](https://github.com/ResidentMario/missingno)
 - [pyUpSet](https://github.com/ImSoErgodic/py-upset)
 - [JoyPy](https://github.com/sbebo/joypy)
+- [bqplot](https://github.com/bqplot/bqplot)
+- [Pygal](https://github.com/Kozea/pygal)
+- [plotnine](https://github.com/has2k1/plotnine)
 ### Theory
 - https://github.com/r0f1/ml_checklist
 - [From Data to Viz](https://www.data-to-viz.com/)
@@ -43,6 +46,7 @@ Geo
 - [GeoPandas](https://github.com/geopandas/geopandas)
 - [H3](https://github.com/uber/h3)
 - [folium](https://github.com/python-visualization/folium)
+- [Kepler.gl](https://github.com/keplergl/kepler.gl)
 - [Geocoder](https://github.com/DenisCarriere/geocoder)
 - [PySAL](https://github.com/pysal/pysal)
 - [geopy](https://github.com/geopy/geopy)
