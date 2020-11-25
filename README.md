@@ -57,6 +57,7 @@ Time Series
 - [Technical Analysis Library](https://github.com/bukosabino/ta)
 - [sktime](https://github.com/alan-turing-institute/sktime)
 - [TSCV](https://github.com/WenjieZ/TSCV)
+- [tslearn](https://github.com/tslearn-team/tslearn)
 
 ### Theory
 - Book [Feature Engineering for Machine Learning](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf) ([Repo](https://github.com/alicezheng/feature-engineering-book))
