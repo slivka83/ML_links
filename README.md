@@ -1,8 +1,13 @@
 # EDA
-### Tools
+## Library
+- [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+- [Plotly](https://plotly.com/python/)
+- [Bokeh](https://docs.bokeh.org/en/latest/index.html)
+- [Altair](https://altair-viz.github.io/)
+## Tools
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
-- [Sweetviz ](https://github.com/fbdesignpro/sweetviz)
+- [Sweetviz](https://github.com/fbdesignpro/sweetviz)
 - [PDPbox](https://github.com/SauceCat/PDPbox)
 - [T-SNE](https://github.com/danielfrg/tsne)
 - [missingno](https://github.com/ResidentMario/missingno)
@@ -11,7 +16,7 @@
 - [bqplot](https://github.com/bqplot/bqplot)
 - [Pygal](https://github.com/Kozea/pygal)
 - [plotnine](https://github.com/has2k1/plotnine)
-### Theory
+## Theory
 - https://github.com/r0f1/ml_checklist
 - [From Data to Viz](https://www.data-to-viz.com/)
 - [Python Graph Gallery](https://python-graph-gallery.com/)
@@ -31,6 +36,7 @@
 - [rrcf](https://klabum.github.io/rrcf/)
 - [Imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 - [Alibi Detect](https://docs.seldon.io/projects/alibi-detect/en/latest/index.html)
+
 # Feature engenering
 ### Tools
 Common
@@ -65,6 +71,7 @@ Time Series
 - Book [Forecasting: Principles and Practice](https://otexts.com/fpp3/) (examples in R)
 - Book [Applied Time Series Analysis for Fisheries and Environmental Sciences](https://nwfsc-timeseries.github.io/atsa-labs/) (examples in R)
 - https://github.com/rob-med/awesome-TS-anomaly-detection
+- https://buildmedia.readthedocs.org/media/pdf/pandasguide/latest/pandasguide.pdf
 
 # Feature selecton
 - [stability-selection](https://github.com/scikit-learn-contrib/stability-selection)
@@ -147,6 +154,12 @@ Time Series
 - http://cs231n.github.io/python-numpy-tutorial/
 - http://jalammar.github.io/visual-numpy/
 
+# Monitoring
+- [ClearML](https://clear.ml/)
+- [Weights & Biases](https://wandb.ai/site)
+
+# Projects
+- [Hydra](https://hydra.cc/docs/intro/)
 
 # Statistics
 ### Tools
@@ -165,6 +178,10 @@ Time Series
   - https://distill.pub/2020/bayesian-optimization/
 - https://the-learning-machine.com/list-articles/machine-learning
 - https://rpsychologist.com/
+
+# Interview Questions
+- https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/?utm_source=pocket_mylist
+- https://rpubs.com/JDAHAN/172473?utm_source=pocket_mylist
 
 # Neural Networks
 ### Tools
@@ -197,6 +214,10 @@ Time Series
 - https://gto76.github.io/python-cheatsheet/
 - https://chrisalbon.com/
 - https://github.com/EthicalML/awesome-production-machine-learning
+- https://python-data-science.readthedocs.io/en/latest/index.html
+- https://the-learning-machine.com/article/machine-learning/linear-algebra
+- http://jalammar.github.io/visual-numpy/
+- https://www.programcreek.com/python/
 
 # Complex Frameworks
 - [Mlxtend](https://github.com/rasbt/mlxtend)
