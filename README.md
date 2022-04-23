@@ -30,6 +30,7 @@
 - [ru] https://nagornyy.me/courses/data-science/intro-to-seaborn/
 - https://infovis.fh-potsdam.de/tutorials/
 - https://clauswilke.com/dataviz/ecdf-qq.html
+- https://github.com/rougier/scientific-visualization-book
 
 # Preprocessing
 - [PyOD](https://github.com/yzhao062/pyod/tree/development)
@@ -79,11 +80,16 @@ Time Series
 - [Boruta](https://github.com/scikit-learn-contrib/boruta_py)
 
 # Model Tuning
+## Tools
+- [Optuna](https://github.com/optuna/optuna)
+- [Ray Tune](https://www.ray.io/ray-tune)
 - [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize)
 - [Hyperopt](https://github.com/hyperopt/hyperopt)
-- [Optuna](https://github.com/optuna/optuna)
 - [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization)
 - [Hyperparameter Hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
+
+## Theory
+https://distill.pub/2020/bayesian-optimization/
 
 # Model explanation
 ### Tools
@@ -113,6 +119,7 @@ Time Series
 # Jupyter
 - [Voila](https://github.com/voila-dashboards/voila)
 - [Streamlit](https://www.streamlit.io/)
+- [atoti](https://github.com/atoti/atoti)
 - [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
 - [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html)
 - [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
@@ -154,12 +161,20 @@ Time Series
 - http://cs231n.github.io/python-numpy-tutorial/
 - http://jalammar.github.io/visual-numpy/
 
-# Monitoring
+# Experiment Tracking
 - [ClearML](https://clear.ml/)
 - [Weights & Biases](https://wandb.ai/site)
+- [Neptune](https://neptune.ai/)
+- [Comet](https://www.comet.ml/site/)
+- [TensorBoard](https://www.tensorflow.org/tensorboard)
+- [MLflow](https://mlflow.org/)
 
 # Projects
 - [Hydra](https://hydra.cc/docs/intro/)
+
+## Theory
+- https://learngitbranching.js.org/?locale=ru_RU
+- https://gitimmersion.com
 
 # Statistics
 ### Tools
@@ -218,6 +233,8 @@ Time Series
 - https://the-learning-machine.com/article/machine-learning/linear-algebra
 - http://jalammar.github.io/visual-numpy/
 - https://www.programcreek.com/python/
+- https://amitness.com/regex/
+- https://developers.google.com/machine-learning/guides/rules-of-ml/
 
 # Complex Frameworks
 - [Mlxtend](https://github.com/rasbt/mlxtend)
