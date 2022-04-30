@@ -195,8 +195,8 @@ https://distill.pub/2020/bayesian-optimization/
 - https://rpsychologist.com/
 
 # Interview Questions
-- https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/?utm_source=pocket_mylist
-- https://rpubs.com/JDAHAN/172473?utm_source=pocket_mylist
+- https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models
+- https://rpubs.com/JDAHAN/172473
 
 # Neural Networks
 ### Tools
